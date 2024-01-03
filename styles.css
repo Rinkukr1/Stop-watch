@@ -93,7 +93,7 @@ body{
     height: 300px;
     overflow: auto;
     position: relative;
-    margin: 30px;
+    margin: 15px;
 }
 
 .laps::-webkit-scrollbar{
